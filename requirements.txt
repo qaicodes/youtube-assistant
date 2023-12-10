@@ -7,3 +7,5 @@ numexpr
 youtube-transcript-api
 tiktoken
 faiss-cpu
+transformers
+torch

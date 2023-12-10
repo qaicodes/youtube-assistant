@@ -1,3 +1,4 @@
 youtube-assistant
 .env
 __pycache__
+flan-t5-small
